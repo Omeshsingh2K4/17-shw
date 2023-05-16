@@ -36,6 +36,12 @@
 	color: white;
 }
 
+#together1{
+	font-size: 15px;
+	text-align: center;
+	color: white;
+}
+
 #timer{
 	text-align: center;
 	color: white;
@@ -118,7 +124,7 @@
 	left: 0;
 	right: 0;
 	margin: auto;
-	width: 70%;
+	width: 40%;
 	height: auto;
 }
 
